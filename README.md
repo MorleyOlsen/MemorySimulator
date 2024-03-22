@@ -1,6 +1,6 @@
 # MemorySimulator
 <br>
-**use guide:**
+use guide:
 <br>
 Step 1: use git clone command to download locally
 <br>
